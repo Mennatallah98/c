@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566491285 source:e:\micro coders\c\project1.3_16\paintonconsole.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"mouse_handler.h"
+
+1566335821 e:\micro coders\c\project1.3_16\mouse_handler.h
+	<windows.h>
+

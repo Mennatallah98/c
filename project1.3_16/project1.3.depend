@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566234310 source:e:\micro coders\c\project1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+
