@@ -1,0 +1,10 @@
+“Adam Mohamed,01122334455,AdamMohamed.19@gmail.com,01/01/1990,Branch manger”
+“Amir Ali,09988776655,AmirAli.5@yahoo.com,12/12/1993,Marketing director”
+“Chandler Bing,01000993078,chandler@gmail.com,08/04/1968,CEO”
+“Frank Underwood,01000134679,frank@gmail.com,05/11/1959,Branch manger”
+“Joey Tribbiani,01000963307,joey@yahoo.com,25/07/1967,Marketeer”
+“Mike Hannigan,01200457812,mike@yahoo.com,05/11/1966,Marketeer”
+“Monica Geller,01200506070,monica@yahoo.com,22/04/1969,Marketing director”
+“Phoebe Buffay,01189635742,phoebe@gamil.com,16/02/1967,Human resources director”
+“Rachel Green,01100397542,rachel@gmail.com,05/05/1969,Marketing director”
+“Ross Geller,01000973164,ross@yahoo.com,18/10/1967,Human resources employee”

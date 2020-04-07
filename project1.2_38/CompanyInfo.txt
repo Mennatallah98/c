@@ -1,0 +1,7 @@
+Step_up company 
+-CEO.
+-Branch manger.
+-Marketing director.
+-Marketeer.
+-Human resources director.
+-Human resources employee.

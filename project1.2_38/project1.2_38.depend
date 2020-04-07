@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566055982 source:e:\micro coders\c\project1.2_38\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1566487994 source:e:\micro coders\c\project1.2_38\companydatabase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
