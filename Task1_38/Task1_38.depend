@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562272940 source:e:\micro coders\c\task1_38\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	"Mathematics.h"
+
+1562260416 e:\micro coders\c\task1_38\mathematics.h
+
+1562275906 source:e:\micro coders\c\task1_38\mathematics.c
+	<stdio.h>
+	<stdlib.h>
+	"Mathematics.h"
+
